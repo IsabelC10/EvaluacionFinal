@@ -17,7 +17,7 @@ public class testPrincipalPage {
 	
 	@Test
 	public void ValidarEvaluacion() throws InterruptedException {
-		// TODO Auto-generated method stub
+		// Llamar pagina de IrishJob
 		
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\JC52261\\Desktop\\JOB BC\\Información de Aprendizaje\\Programa Futuros Lideres - QA Automatizado\\Dependencias\\chromedriver-win64\\chromedriver.exe");// Llamar al ChromeDriver
